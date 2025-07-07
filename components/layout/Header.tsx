@@ -32,7 +32,7 @@ export default function Header() {
             <img 
               src="https://img.atom.com/story_images/visual_images/1715022435-Joy%20Cars%20750.png?class=listing" 
               alt="Joy Cars Logo" 
-              className="w-10 h-10 object-contain " 
+              className="w-24 h-24 object-contain " 
             />
           </Link>
 
